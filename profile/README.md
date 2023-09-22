@@ -1,6 +1,5 @@
 Willkommen im offiziellen GitHub-
-Account von [Dein Unternehmen/
-Spielprojekt]. Dieser Account ist die
+Account von [GatocCp]. Dieser Account ist die
 zentrale Anlaufstelle für alles rund um
 unser aufregendes Spielprojekt. Hier
 teilen wir Codes, Links und 3D-
